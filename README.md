@@ -6,7 +6,7 @@ CONTEXTO:
 * Ingresar un numero 
 * Automaticamente saldra en el Browser si el numero es par o impar
   
-[alt](http://3.1m.yt/fUbF9l-.jpg)
+![alt](http://3.1m.yt/fUbF9l-.jpg)
 
 **Peudocodigo**
 * Inicio
